@@ -40,7 +40,8 @@ python --version
 
 
 2. clone the repository 
-    git clone YOUR_GITHUB_REPOSITIORY URL
+    git clone https://github.com/naitiks832009-web/Student_Management_System-
+    
 
 
 ## Configuration
